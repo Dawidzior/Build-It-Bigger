@@ -7,7 +7,7 @@ import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import p.dawidzior.java_joker_lib.Joker;
+import pl.dawidzior.javajokerlib.Joker;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package p.dawidzior.java_joker_lib;
+package pl.dawidzior.javajokerlib;
 
 public class Joker {
     public static String tellJoke(){
