@@ -1,4 +1,4 @@
-package p.dawidzior.androidjokerlib;
+package pl.dawidzior.androidjokerlib;
 
 import org.junit.Test;
 
